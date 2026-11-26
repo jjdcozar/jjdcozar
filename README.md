@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy JJ 👋
 
-<!--
-**jjdcozar/jjdcozar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Co-Founder & CEO de [Dommux](https://dommux.io)** · Inteligencia residencial en El Salvador 🇸🇻
 
-Here are some ideas to get you started:
+De Cádiz a El Salvador 🇪🇸🇸🇻. Construyo Dommux, una empresa salvadoreña con ingeniería europea que hace que las propiedades piensen, ahorren y valgan más. Antes trabajé en comunidad, marketing y operaciones para proyectos tecnológicos internacionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**En qué ando**
+- 🏗️ Dommux: inteligencia residencial para propiedades premium, de los planos a la operación
+- 🚀 Emprendimiento y startups desde Centroamérica
+- 🔧 Producto y tecnología: la web, la app y lo que hay detrás
+
+**Dónde encontrarme**
+[LinkedIn](https://linkedin.com/in/jjdcozar) · [X](https://x.com/jjdcozar) · [dommux.io](https://dommux.io)
